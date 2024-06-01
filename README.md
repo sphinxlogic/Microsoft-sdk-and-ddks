@@ -49,6 +49,9 @@
 <li><a href="#">.NET Framework 8.0 Reference Source</a></li>
 </ul>
 <ul>
+<li><a href="https://archive.org/details/directxsdks?tab=collection">DirectX SDK's</a></li>
+</ul>
+<ul>
 <li><a href="#">WPF Toolkit</a></li>
 <li><a href="#">Singularity RDK</a></li>
 <li><a href="#">Spec#</a></li>
