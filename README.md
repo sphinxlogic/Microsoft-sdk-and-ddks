@@ -1,8 +1,7 @@
 <ul>	
-<li><a href="#">Windows 2000 DDK</a></li>													
+<li><a href="#">Windows 2000 DDK in Repo</a></li>													
 <li><a href="https://archive.org/details/ms-win2k-platsdk-rc2">Windows 2000 SDK RC</a></li>
-<li><a href="#">Windows 2000 Source Kit In Torrent Hash</a></li>
-<li><a href="https://github.com/uwajonathanchapmanmoore/Windows-2000-Network-Stack">Microsoft Windows 2000 Research Network Stack Source</a></li>
+<li><a href="#">Microsoft Windows 2000 Research Network Stack Source in Repo</a></li>
 <li><a href="https://archive.org/details/X06-04633">Customer Support Diagnostics Package for Microsoft Windows Server 2000</a></li>								</ul>										
 <ul>
 <li><a href="https://archive.org/details/microsoft-windows-server-2003-driver-development-kit-ddk-english">Windows 2003 DDK</a></li>
@@ -30,7 +29,7 @@
 <ul>
 <li><a href="https://learn.microsoft.com/en-us/windows-hardware/drivers/develop/installing-the-wdk-build-environment-in-a-lab">Installing the WDK 8.1 Build Environment in a Lab</a></li>
 <li><a href="#">Windows 8.1/2012 R2 Symbols Subscription Only</a></li>
-<li><a href="https://github.com/winjs">WinJs Source Kit on Github</a></li>													
+<li><a href="https://github.com/winjs">WinJS Source Kit on Github</a></li>													
 </ul>
 <ul>
 <li><a href="#">Windows 10.0.18362.1 ADK, Test, SDK & WDK</a></li>
