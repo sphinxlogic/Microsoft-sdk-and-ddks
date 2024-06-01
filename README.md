@@ -1,4 +1,8 @@
 <ul>	
+<li><a href="https://archive.org/details/94396011997WindowsNTDDKForWinNT4.0WorkstationUS.iso.7z">Windows NT 4.0 DDK</a></li>									
+<li><a href="https://archive.org/details/nt40_win95_sdk1996">Windows 95/NT 4.0 SDK</a></li>
+</ul>
+<ul>	
 <li><a href="#">Windows 2000 DDK in Repo</a></li>													
 <li><a href="https://archive.org/details/ms-win2k-platsdk-rc2">Windows 2000 SDK RC</a></li>
 <li><a href="#">Microsoft Windows 2000 Research Network Stack Source in Repo</a></li>
