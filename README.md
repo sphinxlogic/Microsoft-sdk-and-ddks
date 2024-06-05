@@ -1,9 +1,9 @@
 <ul>	
-<li><a href="https://winworldpc.com/product/windows-sdk-ddk/windows-1x">Windows NT 1.0 SDK</a></li>						
+<li><a href="https://winworldpc.com/product/windows-sdk-ddk/windows-1x">Windows 1.0 SDK</a></li>						
 </ul>
 
 <ul>	
-<li><a href="https://winworldpc.com/product/windows-sdk-ddk/windows-2x">Windows NT 2.0 DDK & SDK</a></li>						
+<li><a href="https://winworldpc.com/product/windows-sdk-ddk/windows-2x">Windows 2.0 DDK & SDK</a></li>						
 </ul>
 
 <ul>	
