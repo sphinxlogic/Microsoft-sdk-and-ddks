@@ -1,4 +1,21 @@
 <ul>	
+<li><a href="https://winworldpc.com/product/windows-sdk-ddk/windows-1x">Windows NT 1.0 SDK</a></li>						
+</ul>
+
+<ul>	
+<li><a href="https://winworldpc.com/product/windows-sdk-ddk/windows-2x">Windows NT 2.0 DDK & SDK</a></li>						
+</ul>
+
+<ul>	
+<li><a href="https://winworldpc.com/product/windows-sdk-ddk/nt-3x">Windows NT 3.1 DDK & SDK</a></li>						
+</ul>
+
+<ul>	
+<li><a href="https://archive.org/details/Microsoft_Developer_Network_DDK_Windows_NT_3.51_DDK_Disc_18_of_19_July_1995">Windows NT 3.5 DDK</a></li>						
+<li><a href="https://archive.org/details/winnt-3.5-612.1">Windows 95/NT 3.5 SDK</a></li>
+</ul>
+
+<ul>	
 <li><a href="https://archive.org/details/94396011997WindowsNTDDKForWinNT4.0WorkstationUS.iso.7z">Windows NT 4.0 DDK</a></li>									
 <li><a href="https://archive.org/details/nt40_win95_sdk1996">Windows 95/NT 4.0 SDK</a></li>
 </ul>
